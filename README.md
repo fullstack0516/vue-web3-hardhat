@@ -1,1 +1,1 @@
-# Vue Hardhat Vue.js Web3
+# Vue Hardhat Web3
